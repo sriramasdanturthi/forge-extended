@@ -1,0 +1,9 @@
+import{j as e,M as s}from"./blocks-gqGYpk7g.js";import{useMDXComponents as n}from"./index-De36GQbW.js";import"./iframe-BBoZTpeG.js";import"./index-BFVZ7Xg9.js";import"./_commonjsHelpers-CqkleIqs.js";function r(o){const t={a:"a",h1:"h1",img:"img",p:"p",...n(),...o.components};return e.jsxs(e.Fragment,{children:[e.jsx(s,{title:"Home"}),`
+`,e.jsxs(t.h1,{id:"tyler-forge-extended-",children:["Tyler Forge™ Extended ",e.jsx(t.a,{href:"https://github.com/tyler-technologies-oss/forge-extended/",rel:"nofollow",children:e.jsx(t.img,{src:"https://img.shields.io/github/stars/tyler-technologies-oss/forge-extended",alt:"GitHub Repo stars"})})]}),`
+`,e.jsxs(t.p,{children:[`The Tyler Forge™ Extended library is a set of high quality, accessible UI components that are built on top of the primitive\r
+`,e.jsx(t.a,{href:"https://forge.tylerdev.io/",rel:"nofollow",children:"Tyler Forge™ components"}),`. These components are typically larger, more complex, and encapsulate\r
+a larger pattern or design to help developers create user interfaces more efficiently. The main focus of these components is\r
+strict design and accessibility, and they are intended to offer limited volatility. The components in this library are\r
+intended to be used in conjunction with the core Tyler Forge library.`]}),`
+`,e.jsxs(t.p,{children:[e.jsx(t.a,{href:"https://www.npmjs.com/package/@tylertech/forge-extended",rel:"nofollow",children:e.jsx(t.img,{src:"https://img.shields.io/npm/v/%40tylertech%2Fforge-extended?style=for-the-badge",alt:"NPM Version"})}),`\r
+`,e.jsx(t.a,{href:"https://www.npmjs.com/package/@tylertech/forge-extended",rel:"nofollow",children:e.jsx(t.img,{src:"https://img.shields.io/npm/dt/%40tylertech%2Fforge-extended?style=for-the-badge",alt:"NPM Downloads"})})]})]})}function h(o={}){const{wrapper:t}={...n(),...o.components};return t?e.jsx(t,{...o,children:e.jsx(r,{...o})}):r(o)}export{h as default};
